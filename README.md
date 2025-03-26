@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there im SATHISH 👋
 
 
 - 🌱 I’m currently learning MERN stack
